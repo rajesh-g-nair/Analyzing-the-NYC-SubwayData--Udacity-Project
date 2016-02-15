@@ -1,0 +1,2 @@
+# Analyzing-the-NYC-SubwayData--Udacity-Project
+Analyzed the NYC Subway Dataset to answer various questions related to ridership of the Subway at different time periods and different weather conditions. Used data science techniques including data wrangling, applied statistics and machine learning, and effective visualization to answer the questions and draw conclusions about the subway for New York City
